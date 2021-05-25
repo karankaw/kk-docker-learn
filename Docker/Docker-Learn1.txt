@@ -1,0 +1,24 @@
+https://itnext.io/chroot-cgroups-and-namespaces-an-overview-37124d995e3d
+https://www.youtube.com/watch?v=8fi7uSYlOdc
+https://www.docker.com/play-with-docker
+
+
+https://www.docker.com/101-tutorial     [<<<<<<<<<<<<<<<BEGIN Here<<<<<<<<<<<<]
+docker run -dp 80:80 docker/getting-started 
+
+docker <command> --help
+docker run -d -p --rm -it IMAGE "startupCommand"
+-d        detached mode in console
+-p       HostPort:DockerPort
+-i         make it interactive
+-t        make a pseudo tty
+--rm   remove once container stopped/exited
+docker start containerID
+docker stop ContainerID
+docker rm containerID
+docker ps -a
+docker ps 
+
+CONTAINERID          IMAGE           COMMAND             CREATED          STATUS          PORTS             NAMES
+
+docker rm 10c997a681fa

@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps
+https://docs.microsoft.com/en-us/windows/wsl/install-manual#downloading-distributions
+Open Appx packages with 7ZIP. Extract only the executable file (e.g. Ubuntu.exe) and install.tar.gz in any drive or any folder. Double click on that executable file and it will be installed.
+https://superuser.com/questions/1271682/is-there-a-way-of-installing-ubuntu-windows-subsystem-for-linux-on-win10-v170/1273698#1273698
+https://hub.docker.com/editions/community/docker-ce-desktop-windows [Download Docker Desktop]
+Use Docker -> Troubleshooting [if issue persists]
