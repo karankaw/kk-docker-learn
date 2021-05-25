@@ -22,3 +22,4 @@ docker ps
 CONTAINERID          IMAGE           COMMAND             CREATED          STATUS          PORTS             NAMES
 
 docker rm 10c997a681fa
+
